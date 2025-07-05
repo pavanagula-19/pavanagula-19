@@ -1,4 +1,4 @@
-<img alt="banner" src="https://arka-live.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-2.jpg" width="100%"/>
+<img alt="banner" src="https://ik.imagekit.io/pavanagulla19/github_banner.png?updatedAt=1751724589029" width="100%"/>
 
 # Hi there! 👋 I'm Pavan Agulla
 
